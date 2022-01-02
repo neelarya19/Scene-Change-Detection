@@ -45,3 +45,13 @@ Scale Image Recognition”. The model achieves 92.7% top-5 test accuracy in Imag
 ### Training
 - No of epochs = 5
 - Batch size = 1
+
+## REPORT
+https://drive.google.com/file/d/1cwoP5cRJ5D76PvHV_WjCDRoSJIf0h9du/view?usp=sharing
+
+## COLLABORATORS
+Neel kumar arya and Ashish Vidyarthi
+
+## [License](https://github.com/neelarya19/Scene-Change-Detection/blob/main/LICENSE)
+MIT © [Neel arya](https://github.com/neelarya19/)
+
