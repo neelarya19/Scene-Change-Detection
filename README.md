@@ -8,7 +8,7 @@ The detection of scenes change is a simple problem that human beings face, but i
 harder to handle autonomously a device that generally includes complex calculations and
 algorithms.
 
-A video scene detection algorithm is designed to detect a variety of different scenes within a
+A video scene detection model is created to detect a variety of different scenes within a
 video. There is a very simple definition for a scene: It is a series of logically and chronologically
 related shots taken in a specific order to depict an over-arching concept or story. The
 identification of video scenes, in many video analysis applications, is a crucial pre-processing
